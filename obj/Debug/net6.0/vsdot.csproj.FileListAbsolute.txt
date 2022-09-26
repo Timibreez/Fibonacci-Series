@@ -1,0 +1,15 @@
+C:\Users\timib\Documents\Work\DotNet\vsdot\bin\Debug\net6.0\vsdot.exe
+C:\Users\timib\Documents\Work\DotNet\vsdot\bin\Debug\net6.0\vsdot.deps.json
+C:\Users\timib\Documents\Work\DotNet\vsdot\bin\Debug\net6.0\vsdot.runtimeconfig.json
+C:\Users\timib\Documents\Work\DotNet\vsdot\bin\Debug\net6.0\vsdot.dll
+C:\Users\timib\Documents\Work\DotNet\vsdot\bin\Debug\net6.0\vsdot.pdb
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.csproj.AssemblyReference.cache
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.AssemblyInfoInputs.cache
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.AssemblyInfo.cs
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.csproj.CoreCompileInputs.cache
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.dll
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\refint\vsdot.dll
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.pdb
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\vsdot.genruntimeconfig.cache
+C:\Users\timib\Documents\Work\DotNet\vsdot\obj\Debug\net6.0\ref\vsdot.dll
