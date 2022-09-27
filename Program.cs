@@ -1,17 +1,22 @@
-﻿Console.Write("Please Enter a Positive Integer to get its Fibonacci series: ");
-int result = Fibonacci(Convert.ToInt32(Console.ReadLine()));
-Console.WriteLine(result);
+﻿using System.Diagnostics;
 
-static int Fibonacci(int n){
+Debug.Write("Please Enter a Positive Integer to get its Fibonacci series: ");
+int n = Fibonacci(Convert.ToInt32(Console.ReadLine()));
+Debug.WriteLine($"We are looking for the {n}th number");
+Console.WriteLine(n);
+
+Debug.WriteLine($"Entering {nameof(Fibonacci)} method");
+static int Fibonacci(int num){
     int n1 = 0;
     int n2 = 1;
     int sum;
 
-    for(int i = 2; i <= n; i++){
+    for(int i = 2; i <= num; i++){
         sum = n1 + n2;
         n1 = n2;
         n2 = sum;
+        Debug.WriteLineIf(sum == 1, $"sum is 1, n1 is {n1}, n2 is {n2}");
     }
 
-    return n == 0? n1:n2;
+    return num == 0? n1:n2;
 }
